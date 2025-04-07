@@ -36,7 +36,7 @@ def enviar_mensagem():
     campo_entrada.delete(0, tk.END)
 
     resposta = chatbot(entrada)
-    campo_texto.insert(tk.END, f'Narrador: {resposta}', 'narrador')
+    campo_texto.insert(tk.END, f'\nNarrador: {resposta}', 'narrador')
     campo_texto.see(tk.END)
 
 

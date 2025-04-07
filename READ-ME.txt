@@ -18,7 +18,7 @@ Um jogo de aventura interativo via terminal ou interface gráfica (`tkinter`), o
 
 1. **Clone o repositório:**
 
-git clone https://github.com/seu-usuario/text-adventure-ia.git
+git clone https://github.com/johannossanes/text-adventure-ai
 cd text-adventure-ia
 
 2. Instale as dependências:

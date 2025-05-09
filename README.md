@@ -25,7 +25,7 @@ cd text-adventure-ia
 
   pip install -r requirements.txt
 
-3.Configure a chave de API da Google:
+3. Configure a chave de API da Google:
 
   Crie um arquivo .env ou defina diretamente em seu script:
 
@@ -36,7 +36,7 @@ cd text-adventure-ia
 
   set GOOGLE_API_KEY=sua_api_key
 
-5. Execute o jogo via terminal:
+4. Execute o jogo via terminal:
 
   python textadventure.py
 

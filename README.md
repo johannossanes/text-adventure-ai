@@ -1,10 +1,10 @@
-##Text Adventure IA
+## Text Adventure IA
 
 Um jogo de aventura interativo via terminal ou interface gráfica (`tkinter`), onde você conversa com uma IA adaptativa que conduz sua jornada por mundos fantásticos. Escolha ações, enfrente criaturas e explore lugares misteriosos — tudo com geração de texto dinâmica usando o modelo Gemini Flash 1.5 da Google.
 
 ---
 
-##Requisitos
+## Requisitos
 
 - Python 3.10 ou superior (recomendado 3.11+)
 - Conta e chave de API da Google AI (Gemini)
@@ -14,7 +14,7 @@ Um jogo de aventura interativo via terminal ou interface gráfica (`tkinter`), o
 
 ---
 
-##Como rodar
+## Como rodar
 
 1. **Clone o repositório:**
 
@@ -40,7 +40,7 @@ cd text-adventure-ia
 
   python textadventure.py
 
-##Recursos implementados
+## Recursos implementados
 
   - Interface interativa com tkinter
 
@@ -54,7 +54,7 @@ cd text-adventure-ia
 
     - Sistema de inventário, combate e escolhas(desenvolvendo)
 
-##Em desenvolvimento
+## Em desenvolvimento
 
   - Escolha de classe
 
@@ -68,7 +68,7 @@ cd text-adventure-ia
 
   - Geração de imagens para locais
 
-##Autor
+## Autor
 
   Desenvolvido por Johann Ossanes
   Feito com Python, criatividade e um pouco de magia negra IA.
